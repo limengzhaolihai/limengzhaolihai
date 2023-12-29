@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limengzhaolihai
-- 👀 I’m interested in cv
-- 🌱 I’m currently learning cv
+- 👀 I’m interested in system
+- 🌱 I’m currently learning system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...1812832887@qq.com
 
